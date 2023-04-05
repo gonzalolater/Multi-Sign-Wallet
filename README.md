@@ -11,3 +11,5 @@ https://goerli.etherscan.io/txs?a=0x0c7DFfaF071327F50477A32e572224D2fAdcfBEb
 # Alchemy University
 
 ![image](https://user-images.githubusercontent.com/42863568/215622222-89f23360-6e3d-4ed4-950d-4ff84241bf5b.png)
+
+Prueba reinstalcion de pc
